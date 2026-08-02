@@ -191,7 +191,7 @@ A balanced pricing strategy that considers both customer demand and gross profit
 👨‍💻 Author
 
 Boitumelo Ramogayane
-Data Analytics Enthusiast | Python | SQL | Power BI
+| Data Analytics Enthusiast | Python | SQL | Power BI
 
 # ⭐ Skills Demonstrated
 
